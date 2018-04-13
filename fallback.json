@@ -1,0 +1,10 @@
+{
+    "articles":[
+        {
+            "title": "Ups!",
+            "url": "",
+            "urlToImage": "images/offline.jpg",
+            "description": "Trata de recargar la página cuando tengas conexión a internet"
+        }
+    ]
+}
